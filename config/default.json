@@ -1,0 +1,15 @@
+{
+  "port": 3020,
+  "happyEasyGo": {
+    "air": {
+      "url": "https://www.happyeasygo.com/heg_api/flight/getLowPriceCalendar.do",
+      "trips": [{ "way": { "from": "BLR", "to": "DEL" }, "days": 15 }]
+    }
+  },
+  "sleep": {
+    "five_seconds": "0.08333",
+    "two_minute": "2",
+    "four_minute": "4",
+    "five_minute": "5"
+  }
+}

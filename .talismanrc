@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: README.md
+  checksum: 677baf4f5a223213f0e3b0b182f0ddc13121abcbbd07e5e70978dac6b867a535
+- filename: package-lock.json
+  checksum: 44184b41a59d1c366843079068c465c9a0e9282692563bec5a27b314f5d48be5
+- filename: services/happyEasyGo/air.js
+  checksum: cd2819b7446a8ffae07694414b165c9daa22ec188d524da4e879195d509f7fd0
+version: ""
